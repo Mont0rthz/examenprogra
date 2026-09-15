@@ -193,7 +193,7 @@ header {
     background-color: var(--fondo-de-cards);
     padding: 25px 20px;
     border-radius: 16px;
-    text-align: left;
+    text-align: center;
     box-shadow: 0 4px 12px rgba(0,0,0,0.03);
 }
 
